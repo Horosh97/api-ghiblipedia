@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": "1",
       "title": "Castle in the Sky",
       "original_title": "天空の城ラピュタ",
       "original_title_romanised": "Tenkū no shiro Rapyuta",
@@ -15,7 +15,7 @@
       "rt_score": "95"
     },
     {
-      "id": "12cfb892-aac0-4c5b-94af-521852e46d6a",
+      "id": "2",
       "title": "Grave of the Fireflies",
       "original_title": "火垂るの墓",
       "original_title_romanised": "Hotaru no haka",
@@ -29,7 +29,7 @@
       "rt_score": "97"
     },
     {
-      "id": "58611129-2dbc-4a81-a72f-77ddfc1b1b49",
+      "id": "3",
       "title": "My Neighbor Totoro",
       "original_title": "となりのトトロ",
       "original_title_romanised": "Tonari no Totoro",
@@ -43,7 +43,7 @@
       "rt_score": "93"
     },
     {
-      "id": "ea660b10-85c4-4ae3-8a5f-41cea3648e3e",
+      "id": "4",
       "title": "Kiki's Delivery Service",
       "original_title": "魔女の宅急便",
       "original_title_romanised": "Majo no takkyūbin",
@@ -57,7 +57,7 @@
       "rt_score": "96"
     },
     {
-      "id": "4e236f34-b981-41c3-8c65-f8c9000b94e7",
+      "id": "5",
       "title": "Only Yesterday",
       "original_title": "おもひでぽろぽろ",
       "original_title_romanised": "Omoide poro poro",
@@ -71,7 +71,7 @@
       "rt_score": "100"
     },
     {
-      "id": "ebbb6b7c-945c-41ee-a792-de0e43191bd8",
+      "id": "6",
       "title": "Porco Rosso",
       "original_title": "紅の豚",
       "original_title_romanised": "Kurenai no buta",
@@ -85,7 +85,7 @@
       "rt_score": "94"
     },
     {
-      "id": "1b67aa9a-2e4a-45af-ac98-64d6ad15b16c",
+      "id": "7",
       "title": "Pom Poko",
       "original_title": "平成狸合戦ぽんぽこ",
       "original_title_romanised": "Heisei tanuki gassen Ponpoko",
@@ -99,7 +99,7 @@
       "rt_score": "78"
     },
     {
-      "id": "ff24da26-a969-4f0e-ba1e-a122ead6c6e3",
+      "id": "8",
       "title": "Whisper of the Heart",
       "original_title": "耳をすませば",
       "original_title_romanised": "Mimi wo sumaseba",
@@ -113,7 +113,7 @@
       "rt_score": "91"
     },
     {
-      "id": "0440483e-ca0e-4120-8c50-4c8cd9b965d6",
+      "id": "9",
       "title": "Princess Mononoke",
       "original_title": "もののけ姫",
       "original_title_romanised": "Mononoke hime",
@@ -127,7 +127,7 @@
       "rt_score": "92"
     },
     {
-      "id": "45204234-adfd-45cb-a505-a8e7a676b114",
+      "id": "10",
       "title": "My Neighbors the Yamadas",
       "original_title": "ホーホケキョ となりの山田くん",
       "original_title_romanised": "Hōhokekyo tonari no Yamada-kun",
@@ -141,7 +141,7 @@
       "rt_score": "75"
     },
     {
-      "id": "dc2e6bd1-8156-4886-adff-b39e6043af0c",
+      "id": "11",
       "title": "Spirited Away",
       "original_title": "千と千尋の神隠し",
       "original_title_romanised": "Sen to Chihiro no kamikakushi",
@@ -155,7 +155,7 @@
       "rt_score": "97"
     },
     {
-      "id": "90b72513-afd4-4570-84de-a56c312fdf81",
+      "id": "12",
       "title": "The Cat Returns",
       "original_title": "猫の恩返し",
       "original_title_romanised": "Neko no ongaeshi",
@@ -169,7 +169,7 @@
       "rt_score": "89"
     },
     {
-      "id": "cd3d059c-09f4-4ff3-8d63-bc765a5184fa",
+      "id": "13",
       "title": "Howl's Moving Castle",
       "original_title": "ハウルの動く城",
       "original_title_romanised": "Hauru no ugoku shiro",
@@ -183,7 +183,7 @@
       "rt_score": "87"
     },
     {
-      "id": "112c1e67-726f-40b1-ac17-6974127bb9b9",
+      "id": "14",
       "title": "Tales from Earthsea",
       "original_title": "ゲド戦記",
       "original_title_romanised": "Gedo senki",
@@ -197,7 +197,7 @@
       "rt_score": "41"
     },
     {
-      "id": "758bf02e-3122-46e0-884e-67cf83df1786",
+      "id": "15",
       "title": "Ponyo",
       "original_title": "崖の上のポニョ",
       "original_title_romanised": "Gake no ue no Ponyo",
@@ -211,7 +211,7 @@
       "rt_score": "92"
     },
     {
-      "id": "2de9426b-914a-4a06-a3a0-5e6d9d3886f6",
+      "id": "16",
       "title": "Arrietty",
       "original_title": "借りぐらしのアリエッティ",
       "original_title_romanised": "Karigurashi no Arietti",
@@ -225,7 +225,7 @@
       "rt_score": "95"
     },
     {
-      "id": "45db04e4-304a-4933-9823-33f389e8d74d",
+      "id": "17",
       "title": "From Up on Poppy Hill",
       "original_title": "コクリコ坂から",
       "original_title_romanised": "Kokuriko zaka kara",
@@ -239,7 +239,7 @@
       "rt_score": "83"
     },
     {
-      "id": "67405111-37a5-438f-81cc-4666af60c800",
+      "id": "18",
       "title": "The Wind Rises",
       "original_title": "風立ちぬ",
       "original_title_romanised": "Kaze tachinu",
@@ -253,7 +253,7 @@
       "rt_score": "89"
     },
     {
-      "id": "578ae244-7750-4d9f-867b-f3cd3d6fecf4",
+      "id": "19",
       "title": "The Tale of the Princess Kaguya",
       "original_title": "かぐや姫の物語",
       "original_title_romanised": "Kaguya-Hime no Monogatari",
@@ -267,7 +267,7 @@
       "rt_score": "100"
     },
     {
-      "id": "5fdfb320-2a02-49a7-94ff-5ca418cae602",
+      "id": "20",
       "title": "When Marnie Was There",
       "original_title": "思い出のマーニー",
       "original_title_romanised": "Omoide no Marnie",
@@ -281,7 +281,7 @@
       "rt_score": "92"
     },
     {
-      "id": "d868e6ec-c44a-405b-8fa6-f7f0f8cfb500",
+      "id": "21",
       "title": "The Red Turtle",
       "original_title": "レッドタートル ある島の物語",
       "original_title_romanised": "Reddotātoru aru shima no monogatari",
@@ -295,7 +295,7 @@
       "rt_score": "93"
     },
     {
-      "id": "790e0028-a31c-4626-a694-86b7a8cada40",
+      "id": "22",
       "title": "Earwig and the Witch",
       "original_title": "アーヤと魔女",
       "original_title_romanised": "Āya to Majo",
